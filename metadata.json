@@ -1,0 +1,5 @@
+{
+  "name": "MCP Implementation Consultant",
+  "description": "An AI-powered application that acts as an expert consultant, analyzing user needs and existing tools to generate a complete Model Context Protocol (MCP) implementation plan, including architecture, requirements, and a step-by-step guide.",
+  "requestFramePermissions": []
+}
